@@ -1,0 +1,394 @@
+[
+  {
+    "key": "loading",
+    "group": "onboarding",
+    "title": "Loading screen",
+    "light": "75:528",
+    "dark": "621:7536"
+  },
+  {
+    "key": "onboarding1",
+    "group": "onboarding",
+    "title": "Onboarding 1",
+    "light": "19:75",
+    "dark": "611:7067"
+  },
+  {
+    "key": "onboarding2",
+    "group": "onboarding",
+    "title": "Onboarding 2",
+    "light": "27:222",
+    "dark": "611:7110"
+  },
+  {
+    "key": "onboarding3",
+    "group": "onboarding",
+    "title": "Onboarding 3",
+    "light": "27:277",
+    "dark": "611:7173"
+  },
+  {
+    "key": "signIn",
+    "group": "auth",
+    "title": "Sign in-Default",
+    "light": "48:40",
+    "dark": "611:7221"
+  },
+  {
+    "key": "signInFilled",
+    "group": "auth",
+    "title": "Sign in-Input filled",
+    "light": "59:591",
+    "dark": "617:7276"
+  },
+  {
+    "key": "signInError",
+    "group": "auth",
+    "title": "Sign in-Error",
+    "light": "59:676",
+    "dark": "621:7421"
+  },
+  {
+    "key": "signUp",
+    "group": "auth",
+    "title": "Sign up-Input phone number",
+    "light": "59:858",
+    "dark": "621:7543"
+  },
+  {
+    "key": "signUpCode",
+    "group": "auth",
+    "title": "Sign up-Input code",
+    "light": "67:417",
+    "dark": "621:7551"
+  },
+  {
+    "key": "signUpPassword",
+    "group": "auth",
+    "title": "Sign up-Input code",
+    "light": "67:525",
+    "dark": "621:7563"
+  },
+  {
+    "key": "home",
+    "group": "home",
+    "title": "Home screen-Tabbar",
+    "light": "197:944",
+    "dark": "632:9908"
+  },
+  {
+    "key": "homeFull",
+    "group": "home",
+    "title": "Home screen-Full screen",
+    "light": "141:456",
+    "dark": "624:8074"
+  },
+  {
+    "key": "search",
+    "group": "home",
+    "title": "Home screen-Search",
+    "light": "253:2590",
+    "dark": "671:11944"
+  },
+  {
+    "key": "searchResults",
+    "group": "home",
+    "title": "Home screen-Search results",
+    "light": "264:1635",
+    "dark": "671:11969"
+  },
+  {
+    "key": "filter",
+    "group": "home",
+    "title": "Home screen-Filter",
+    "light": "274:9560",
+    "dark": "671:14788"
+  },
+  {
+    "key": "pickup",
+    "group": "pickup",
+    "title": "Pickup screen/List",
+    "light": "376:3608",
+    "dark": "624:8135"
+  },
+  {
+    "key": "pickupFull",
+    "group": "pickup",
+    "title": "Pickup screen/Full list",
+    "light": "384:8871",
+    "dark": "624:8145"
+  },
+  {
+    "key": "pickupPin",
+    "group": "pickup",
+    "title": "Pickup screen/Pin active",
+    "light": "384:9146",
+    "dark": "624:8155"
+  },
+  {
+    "key": "pickupRestaurant",
+    "group": "pickup",
+    "title": "Pickup screen/Restaurant",
+    "light": "384:9643",
+    "dark": "624:7892"
+  },
+  {
+    "key": "restaurant",
+    "group": "restaurant",
+    "title": "Restaurant/Menu",
+    "light": "298:2142",
+    "dark": "624:7855"
+  },
+  {
+    "key": "restaurantScrolled",
+    "group": "restaurant",
+    "title": "Restaurant/Scroll down",
+    "light": "332:2455",
+    "dark": "632:10918"
+  },
+  {
+    "key": "store",
+    "group": "restaurant",
+    "title": "Restaurant/Store info (Collapsed)",
+    "light": "363:5746",
+    "dark": "624:7924"
+  },
+  {
+    "key": "storeFull",
+    "group": "restaurant",
+    "title": "Restaurant/Store info (Full details)",
+    "light": "363:5950",
+    "dark": "624:7933"
+  },
+  {
+    "key": "dish",
+    "group": "restaurant",
+    "title": "Restaurant/Add to cart",
+    "light": "334:2658",
+    "dark": "624:7969"
+  },
+  {
+    "key": "cartEmpty",
+    "group": "cart",
+    "title": "Cart/No items",
+    "light": "398:11307",
+    "dark": "661:15236"
+  },
+  {
+    "key": "cart",
+    "group": "cart",
+    "title": "Cart/Overview",
+    "light": "404:4731",
+    "dark": "661:15249"
+  },
+  {
+    "key": "cartItems",
+    "group": "cart",
+    "title": "Cart/View items",
+    "light": "425:4882",
+    "dark": "661:16967"
+  },
+  {
+    "key": "clearCart",
+    "group": "cart",
+    "title": "Cart/Clear cart pop-up",
+    "light": "425:4736",
+    "dark": "661:16834"
+  },
+  {
+    "key": "checkout",
+    "group": "cart",
+    "title": "Checkout/Delivery",
+    "light": "457:5553",
+    "dark": "661:15294"
+  },
+  {
+    "key": "checkoutPickup",
+    "group": "cart",
+    "title": "Checkout/Pickup",
+    "light": "480:5421",
+    "dark": "661:15327"
+  },
+  {
+    "key": "placing",
+    "group": "delivery",
+    "title": "Delivery status/Placing order",
+    "light": "466:5694",
+    "dark": "661:15154"
+  },
+  {
+    "key": "processing",
+    "group": "delivery",
+    "title": "Delivery status/Processing order",
+    "light": "480:5623",
+    "dark": "661:15179"
+  },
+  {
+    "key": "delivering",
+    "group": "delivery",
+    "title": "Delivery status/Delivering order (Collapsed)",
+    "light": "501:7313",
+    "dark": "669:12083"
+  },
+  {
+    "key": "deliveringDetails",
+    "group": "delivery",
+    "title": "Delivery status/Delivering order (Details)",
+    "light": "501:7469",
+    "dark": "669:12341"
+  },
+  {
+    "key": "delivered",
+    "group": "delivery",
+    "title": "Delivery status/Order complete",
+    "light": "509:6258",
+    "dark": "661:15166"
+  },
+  {
+    "key": "chat",
+    "group": "delivery",
+    "title": "Chat with courier",
+    "light": "516:6418",
+    "dark": "661:15258"
+  },
+  {
+    "key": "chatMessages",
+    "group": "delivery",
+    "title": "Chat with courierMessages",
+    "light": "525:6708",
+    "dark": "661:15280"
+  },
+  {
+    "key": "feedback",
+    "group": "delivery",
+    "title": "Feedback",
+    "light": "543:7009",
+    "dark": "661:15272"
+  },
+  {
+    "key": "ordersEmpty",
+    "group": "orders",
+    "title": "Orders/No orders",
+    "light": "433:5101",
+    "dark": "671:11776"
+  },
+  {
+    "key": "orders",
+    "group": "orders",
+    "title": "Orders/List",
+    "light": "437:5352",
+    "dark": "671:11791"
+  },
+  {
+    "key": "receipt",
+    "group": "orders",
+    "title": "Orders/Receipt",
+    "light": "446:5044",
+    "dark": "671:11831"
+  },
+  {
+    "key": "receiptMore",
+    "group": "orders",
+    "title": "Orders/Receipt (More)",
+    "light": "457:5328",
+    "dark": "671:14169"
+  },
+  {
+    "key": "account",
+    "group": "account",
+    "title": "Account",
+    "light": "509:6700",
+    "dark": "671:11740"
+  },
+  {
+    "key": "editProfile",
+    "group": "account",
+    "title": "Account/Edit profile",
+    "light": "551:7264",
+    "dark": "671:11758"
+  },
+  {
+    "key": "membership",
+    "group": "account",
+    "title": "Join membership",
+    "light": "574:6608",
+    "dark": "671:11802"
+  },
+  {
+    "key": "addresses",
+    "group": "address",
+    "title": "Address",
+    "light": "228:1433",
+    "dark": "671:12024"
+  },
+  {
+    "key": "addressTyping",
+    "group": "address",
+    "title": "Address/Typing",
+    "light": "228:1359",
+    "dark": "671:11987"
+  },
+  {
+    "key": "addressDetails",
+    "group": "address",
+    "title": "Address/Address info",
+    "light": "228:2030",
+    "dark": "671:11995"
+  },
+  {
+    "key": "addressPin",
+    "group": "address",
+    "title": "Address/Adjust pin",
+    "light": "248:1540",
+    "dark": "671:12011"
+  },
+  {
+    "key": "promotions",
+    "group": "other",
+    "title": "Promotions",
+    "light": "551:7479",
+    "dark": "671:12034"
+  },
+  {
+    "key": "promotionError",
+    "group": "other",
+    "title": "Promotions/Error",
+    "light": "551:7487",
+    "dark": "671:12095"
+  },
+  {
+    "key": "payments",
+    "group": "other",
+    "title": "Payment method",
+    "light": "584:6874",
+    "dark": "671:12042"
+  },
+  {
+    "key": "addCard",
+    "group": "other",
+    "title": "Payment method/Add card",
+    "light": "590:7224",
+    "dark": "671:12062"
+  },
+  {
+    "key": "help",
+    "group": "other",
+    "title": "Help center",
+    "light": "597:7396",
+    "dark": "671:12052"
+  },
+  {
+    "key": "notificationsEmpty",
+    "group": "other",
+    "title": "Notifications/Empty",
+    "light": "570:7250",
+    "dark": "671:12071"
+  },
+  {
+    "key": "notifications",
+    "group": "other",
+    "title": "Notifications",
+    "light": "574:6779",
+    "dark": "671:12084"
+  }
+]
